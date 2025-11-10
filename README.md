@@ -7,3 +7,6 @@
 
 3. Electric vehicle population dashboard :
    https://public.tableau.com/views/Electric_Vehicle_Population_Dashboard_17222715787560/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Banking_Data Analysis_Dashboard :
+https://public.tableau.com/views/Book1_17625821509870/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
